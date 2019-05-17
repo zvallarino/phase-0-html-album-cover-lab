@@ -2,7 +2,11 @@
 
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
 
-## Problem Statement
+## Learning Goals
+
+1. Apply header, paragraph, image and span tags
+
+## Introduction
 
 Learning all the individual pieces that make up a web page is a necessary first
 step in the process of learning HTML, but one of the best ways to solidify the
@@ -10,11 +14,7 @@ concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
 
-## Objectives
-
-1. Practice applying header, paragraph, image and span tags
-
-## The Mock Up
+## Apply Header, Paragraph, Image and Span Tags
 
 Pharrell isn't quite happy, he needs some help coding the album cover for his
 hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired
@@ -53,7 +53,7 @@ You may not have encountered the `span` tag before, so if you are curious, take
 a moment to [read up on some reference material] to better understand its use.
 
 Run `httpserver` and copy the IP address it provides into a new browser tab to
-see your work in action. Alternatively, if you are working in a local
+see your work in action.  Alternatively, if you are working in a local
 environment, open `index.html` to view the Album Cover as you build it.
 
 To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
@@ -76,5 +76,6 @@ foundation that we can build upon as we continue to learn about web development.
 _Clap along if you feel_ you're getting the hang of HTML!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+
 
 [read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
